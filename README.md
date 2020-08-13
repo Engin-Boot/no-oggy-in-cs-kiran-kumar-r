@@ -3,7 +3,7 @@
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings.
-The function can be used to remove oggy.
+The function can be used to remove Oggy and that makes the world a better place
 
 ## Method
 
